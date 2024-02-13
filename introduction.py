@@ -1,0 +1,6 @@
+print("eMobilis")
+print("Hinn")
+print(100)
+print(4+3)
+print(500+1234)
+print("Hello world")
